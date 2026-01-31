@@ -1,0 +1,1 @@
+﻿INDEX|Day of week|Max Temp|Min Temp1|Monday|47|362|Tuesday|44|303|Wednesday|33|274|Thursday|34|305|Friday|30|166|Saturday|29|127|Sunday|45|24
